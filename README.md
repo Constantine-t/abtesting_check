@@ -1,4 +1,4 @@
-# Final Project: Product Analytics & A/B Testing
+# Product Analytics & A/B Testing
 
 [Читать на русском](#описание-на-русском)
 
